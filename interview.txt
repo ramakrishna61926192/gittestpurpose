@@ -1,0 +1,3 @@
+python security managment.
+memory managment in python.
+how do you connect to two diffrent databases in python.
